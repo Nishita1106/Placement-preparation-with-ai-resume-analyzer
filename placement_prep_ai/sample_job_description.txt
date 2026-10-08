@@ -1,0 +1,16 @@
+Job Title: Data Analyst (Fresher)
+
+We are looking for a Data Analyst to join our analytics team.
+
+Responsibilities:
+- Collect, clean and analyse large datasets using Python, SQL and Excel.
+- Build dashboards and reports using Power BI or Tableau.
+- Perform exploratory data analysis and apply statistics to find trends.
+- Communicate insights clearly to business stakeholders.
+
+Requirements:
+- Strong knowledge of Python (Pandas, NumPy) and SQL.
+- Experience with data visualization tools such as Power BI or Tableau.
+- Understanding of statistics and data cleaning techniques.
+- Good communication and problem solving skills.
+- Familiarity with Git is a plus.

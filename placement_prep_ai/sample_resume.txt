@@ -1,0 +1,38 @@
+Priya Sharma
+priya.sharma@example.com | +91 98765 43210
+linkedin.com/in/priyasharma | github.com/priyasharma
+
+CAREER OBJECTIVE
+Final-year B.Tech Computer Science student seeking a data analyst role where I can apply Python, SQL and data visualization skills to solve business problems.
+
+EDUCATION
+B.Tech in Computer Science, ABC Institute of Technology - CGPA 8.4 (2022 - 2026)
+Class XII (CBSE) - 89%, Class X (CBSE) - 92%
+
+TECHNICAL SKILLS
+Languages: Python, SQL, Java, C
+Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+Tools: Excel, Power BI, Git, GitHub
+Core subjects: Data Structures, DBMS, Operating Systems, OOP
+
+PROJECTS
+Sales Dashboard Analysis
+- Cleaned and analysed 50,000+ sales records using Pandas and NumPy, reducing reporting time by 40%.
+- Built an interactive Power BI dashboard used by a team of 15 students for a college fest.
+
+Student Performance Predictor
+- Developed a machine learning model using Scikit-learn with 88% accuracy on 1,200 records.
+- Performed exploratory data analysis and feature engineering to improve results by 12%.
+
+EXPERIENCE
+Data Analytics Intern, XYZ Solutions (Jun 2025 - Aug 2025)
+- Automated weekly Excel reports with Python, saving 6 hours per week.
+- Collaborated with a team of 4 to visualize customer churn trends.
+
+CERTIFICATIONS
+- Google Data Analytics Certificate (Coursera)
+- Python for Data Science - NPTEL
+
+ACHIEVEMENTS
+- Winner, college-level hackathon 2025 (team of 4)
+- Led the coding club with 60+ members; strong communication and teamwork skills
